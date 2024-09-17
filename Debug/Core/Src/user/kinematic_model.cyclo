@@ -1,0 +1,11 @@
+../Core/Src/user/kinematic_model.cpp:10:6:void Mecanum_O::inverse_kinetics(double*, double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:16:6:void Mecanum_O::forward_kinetics(double*, double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:23:6:void Mecanum_X::inverse_kinetics(double*, double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:29:6:void Mecanum_X::forward_kinetics(double*, double*, double*, double*)	1
+C:\ST\STM32CubeIDE_1.10.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506\tools\bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/c++/11.3.1/cmath:475:5:constexpr typename __gnu_cxx::__enable_if<std::__is_integer<_Tp>::__value, double>::__type std::sqrt(_Tp) [with _Tp = int]	1
+../Core/Src/user/kinematic_model.cpp:37:6:void omni_3::inverse_kinetics(double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:42:6:void omni_3::forward_kinetics(double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:49:6:void omni_4::inverse_kinetics(double*, double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:55:6:void omni_4::forward_kinetics(double*, double*, double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:62:6:void differential_wheel::inverse_kinetics(double*, double*)	1
+../Core/Src/user/kinematic_model.cpp:66:6:void differential_wheel::forward_kinetics(double*, double*)	1

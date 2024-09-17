@@ -1,0 +1,4 @@
+../Core/Src/user/dc_motor.cpp:13:1:DC_motor::DC_motor(double, double, double, double, double)	1
+../Core/Src/user/dc_motor.cpp:24:6:void DC_motor::encoder(TIM_HandleTypeDef*)	1
+../Core/Src/user/dc_motor.cpp:31:6:void DC_motor::PID_PWM_ratio(double, double)	5
+../Core/Src/user/dc_motor.cpp:51:6:void DC_motor::output(TIM_HandleTypeDef*, uint32_t, double, GPIO_TypeDef*, uint16_t, GPIO_TypeDef*, uint16_t)	5
